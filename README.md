@@ -9,7 +9,7 @@ STEP 1 :
 
 1.Deploy the EKS Cluster with Terraform.
 
-2.git clone Github Repo
+2.git clone Github Repo(git clone git@github.com:bikrantsahoo/Deploy-webapp-with-techstack-terraform-aws--eks.git)
 
 3.Change into the eks directory: cd eks
 
