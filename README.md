@@ -1,7 +1,7 @@
 # Deploying-and-Managing-a-Pac-Man-Game-on-AWS-EKS-using-Terraform
 This repo is used for hands on lab for Deploying-and-Managing-a-Pac-Man-Game-on-AWS-EKS-using-Terraform.
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNSb2n8EOjSuCpO3VtejG0RB3Ql8DI2glSR3EvEDmqw&usqp=CAU&ec=48600112">
+<img align="middle" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNSb2n8EOjSuCpO3VtejG0RB3Ql8DI2glSR3EvEDmqw&usqp=CAU&ec=48600112">
 
 
 STEP 1 :
